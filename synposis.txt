@@ -1,0 +1,41 @@
+	
+
+Some desktop environments such as GNOME focus on a modern look and user experience while desktop like XFCE focus more on using fewer computing resources than on fancy graphics.
+
+Some of the popular desktop environments are:
+
+GNOME – Uses plenty of system resources but gives you a modern, polished system
+XFCE – Vintage look but light on resources
+KDE – Highly customizable desktop with more than moderate usage of system resources
+LXDE – The entire focus is on using as few resources as possible
+Budgie – Modern looks and moderate on system resources
+
+1. All our action happens with a graphical user interface, which is what a desktop environment is. Your file manager, windows, login screens, various menus, mouse pointer, all that stuff. And it's called a graphical user interface (GUI) because it's actually optional!
+
+A GUI (graphical user interface) is a system of interactive visual components for computer software.
+
+
+Evolution of UI/UX design programs pertaining to different Operating Systems and various distributions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
